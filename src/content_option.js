@@ -1,4 +1,4 @@
-const logotext = "Muhammad Safeer Hussain";
+const logotext = "M. Safeer Hussain ";
 const meta = {
     title: "Safeer-Web Developer",
     description: "I’m Muhammad Safeer Hussain _ Full stack Web Developer",
