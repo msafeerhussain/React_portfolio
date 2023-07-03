@@ -1,4 +1,4 @@
-const logotext = "M.Safeer Hussain";
+const logotext = "Muhammad Safeer Hussain";
 const meta = {
     title: "Safeer-Web Developer",
     description: "I’m Muhammad Safeer Hussain _ Full stack Web Developer",
@@ -74,37 +74,37 @@ const services = [{
 ];
 
 const dataportfolio = [{
-        img: "img/01.png",
+        img: process.env.PUBLIC_URL+ "/images/01.png",
         description: "Tech Innovaters Website",
         link: "https://techinnovaters.com/",
     },
     {
-        img: "img/02.png",
+        img: process.env.PUBLIC_URL+ "/images/02.png",
         description: "Watch Store Template",
         link: "https://msafeerhussain.github.io/Watch_store_template/",
     },
     {
-        img: "img/03.png",
+        img: process.env.PUBLIC_URL+ "/images/03.png",
         description: "Ecommerce Site Template",
         link: "https://msafeerhussain.github.io/Ecommerce_site_template/",
     },
     {
-        img: "img/04.png",
+        img: process.env.PUBLIC_URL+ "/images/04.png",
         description: "Construction Company Website",
         link: "https://msafeerhussain.github.io/Construction_Company_website/",
     },
     {
-        img: "img/05.png",
+        img: process.env.PUBLIC_URL+ "/images/05.png",
         description: "Animatronexpo Personal Portfolio",
         link: "https://animatronexpo.com/",
     },
     {
-        img: "img/06.png",
+        img: process.env.PUBLIC_URL+ "/images/06.png",
         description: "Image Gallery Template",
         link: "https://msafeerhussain.github.io/Image_gallery/",
     },
     {
-        img: "img/07.png",
+        img: process.env.PUBLIC_URL+ "/images/07.png",
         description: "HTML Portfolio",
         link: "https://msafeerhussain.github.io/HTML-portfolio/",
     },
