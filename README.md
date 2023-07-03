@@ -2,9 +2,9 @@
 
 A simple portfolio template for developer/designers built with React. 
 
-### [live preview]()
+### [live preview](https://msafeerhussain.github.io/React_portfolio/)
 
-[![react portfoiio](https://github.com/msafeerhussain/personal_portfolio.git)
+[![react portfoiio](https://github.com/msafeerhussain/React_portfolio.git)
 
 ### Features
 
